@@ -10,5 +10,5 @@
 ``` python setup.py build_ext --inplace```
 
 ### 4) Now Import your code like *src.filename* in main.py
-**Enjoy :D **
+** Enjoy :D **
 
